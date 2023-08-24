@@ -28,5 +28,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea
+/.idea
 /out
+/DSA with JAVA.iml
